@@ -52,3 +52,11 @@ Ou simplesmente abra o arquivo index.html diretamente no navegador.
 📄 Licença
 
 Este projeto é de propriedade de Larissa Vaz Terra. O código pode ser utilizado apenas para fins de estudo ou referência, mediante autorização prévia. © 2025 Larissa Vaz Terra. Todos os direitos
+<img width="1876" height="915" alt="image" src="https://github.com/user-attachments/assets/acca7dd5-22f9-4650-b943-6e3d13385f60" />
+<img width="1879" height="923" alt="image" src="https://github.com/user-attachments/assets/3a4191c9-40ca-4b09-8840-639061854b6a" />
+<img width="1867" height="903" alt="image" src="https://github.com/user-attachments/assets/4351c402-eb23-4ecd-8417-6a32861bed5e" />
+<img width="1855" height="904" alt="image" src="https://github.com/user-attachments/assets/fb4589a0-1d89-467f-9673-d657ae3d2362" />
+
+
+
+
